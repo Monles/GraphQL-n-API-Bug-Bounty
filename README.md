@@ -23,5 +23,5 @@ sudo apt dist-upgrade -y
 - [Exploit Database](https://www.exploit-db.com/)
 
 # References
-- [Black Hat GraphQL](https://learning-oreilly-com.ezproxy.uwe.ac.uk/library/view/black-hat-graphql/9781098156831/) By Nick Aleks, Dolev Farhi, 2023
-- [Hacking APIs](https://learning-oreilly-com.ezproxy.uwe.ac.uk/library/view/hacking-apis/9781098130244/) By Corey Ball, 2022
+- [Black Hat GraphQL](https://nostarch.com/black-hat-graphql) By Nick Aleks, Dolev Farhi, 2023
+- [Hacking APIs](https://nostarch.com/hacking-apis) By Corey Ball, 2022
