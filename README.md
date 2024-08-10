@@ -15,6 +15,11 @@ Bug bounty programs offer a structured yet flexible testing environment. Hunters
 # Setup of Labs
 Please follow the instructions in [INSTALL.md](./INSTALL.md).
 
+# Practice with **PortSwigger**
+- There are many labs for you to practice web application security.
+- After creating an account / logging in, you can start practice the labs in [PortSwigger](https://portswigger.net/web-security/sql-injection). <br>
+
+![](./screenshots/27.png)
 
 ---
 
