@@ -66,6 +66,15 @@ This setting is based on the method in `Chapter 4: Environmental Setup and Traff
 
 - Restart Firefox, now Burp is set to intercept both HTTP & HTTPs traffic.
 
+### Another Method - FoxyProxy
+**FoxyProxy** is an addon for browsers, we can use for Firefox. <br>
+To add a new proxy, click the `Options`. <br>
+![](./screenshots/19.png)
+Then add a new proxy setting. <br>
+Then go back to enable the proxy `Burpsuite`. <br>
+![](./screenshots/20.png)
+
+
 ## 3. View the Request
 - Open Firefox and go to `google.com` <br>
 - Enable `Intercept is on` (by clicking on `Intercept is off`) <br>
