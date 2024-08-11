@@ -1,5 +1,8 @@
 # Highlights
 > Recon skills are what separate a good hacker from an ineffective one.
+>
+> — Vickie Li, [Bug Bounty Bootcamp](https://nostarch.com/bug-bounty-bootcamp)
+
 
 # Recon
 ## Google dorking
@@ -23,6 +26,20 @@
     - Searches for pages with a specific file extension.
     - `filetype:pdf site:oreilly.com`
     ![](./screeshots/05.png)
+- **Wildcard (*)**
+    - The wildcard operator (*) is able to be used within searches to mean any character or series of characters.
+    - `how to hack * using Kali`
+    ![](./screeshots/06.png)
+    - There is a difference between using quotes or not.
+    - `"how to hack * using Kali"`
+    ![](./screeshots/07.png)
+- **Quotes (")**
+    - Adding quotation marks around the search terms forces an exact match.
+    - `"how to hack"`
+    ![](./screeshots/08.png)
+    
+
+
 
 ---
 
